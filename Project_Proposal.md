@@ -2,7 +2,7 @@
 ## Gauresh Walia
 
 ### Project Title
-Note Trader
+Study Buddy
 
 ### What and why?
 An app that lets students create accounts and upload past sample midterms and finals, and other notes and class resources. If a student is taking a class that another student took, and vice versa, these students can barter and trade notes/exams. This can help students better feel prepared for their classes.
